@@ -1,0 +1,113 @@
+<resources>
+    <string name="app_name">project</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="Settings">action_settings</string>
+    <string name="User_NULL">User is NULL</string>
+    <string name="Null_User">User is NuLL</string>
+
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email completions."</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="Enter_email_hint">Enter Email here</string>
+    <string name="Enter_password_hint">Enter password  here</string>
+    <string name="saboormailgmail">saboorhussain5@gmail.com</string>
+    <string name="contact">Contact</string>
+    <string name="age">Age</string>
+    <string name="bio">Bio</string>
+    <string name="gender">Gender</string>
+    <string name="profession">Profession</string>
+    <string name="email">E-mail</string>
+    <string name="city">City</string>
+    <string name="num17">17</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="programmer">#Programmer</string>
+    <string name="phonehardcode">03215468415</string>
+    <string name="doctor">Doctor</string>
+    <string name="login">Login</string>
+    <string name="signup">signup</string>
+    <string name="enterpersonname">Enter Name of Person</string>
+    <string name="search">Search</string>
+    <string name="enterfood">Enter a food</string>
+    <string name="addtodb">Add to database</string>
+    <string name="getlocation">Get Location</string>
+    <string name="sendmsg">Send Message</string>
+    <string name="sendrequest">Send Request</string>
+    <string name="imrankhan">Imran Khan</string>
+    <string name="viewprofile">View Profile</string>
+    <string name="username">UserName</string>
+    <string name="draw">Draw</string>
+    <string name="about">About</string>
+    <string name="photos">photos</string>
+    <string name="friends">Friends</string>
+    <string name="nametobeshown">Name to be shown</string>
+    <string name="whatprofession">What is your profession?</string>
+    <string name="uploadimg">Upload Image</string>
+    <string name="termsncond">Terms and conditions!</string>
+    <string name="tools">Tools</string>
+    <string name="gallery">Gallery</string>
+    <string name="slideshow">Slideshow</string>
+    <string name="import1">Import !</string>
+    <string name="communicate">Communicate</string>
+    <string name="share">Share</string>
+    <string name="send">Send</string>
+
+    //java file strings
+    <string name="onComplete">onComplete</string>
+    <string name="Welcome">Welcome</string>
+    <string name="Email_is_Mandatory_to_Login">Email is Mandatory to Login</string>
+    <string name="Email_is_Invalid">Email is Invalid</string>
+    <string name="Password_is_Mandatory_to_Login">Password is Mandatory to Login</string>
+    <string name="Wrong_Password">Wrong Password</string>
+    <string name="First_Verify_your_Email_through_link_to_Sign_in">First Verify your Email through link to Sign in</string>
+    <string name="Must_Sign_Up_before_Sign_In">Must Sign Up before Sign In</string>
+    <string name="Uploaded">Uploaded......</string>
+    <string name="Start">Start </string>
+    <string name="Not_uploaded">Not uploaded..</string>
+    <string name="Welcome_You_have_Signed_Up">Welcome You have Signed Up</string>
+    <string name="You_must_check_Term_and_Conditions_to_Sign_Up">You must check Term and Conditions to Sign Up</string>
+    <string name="Email_already_exists">Email already exists</string>
+    <string name="Password_is_very_Weak">Password is very Weak</string>
+    <string name="A_verification_Email_is_sent_on_your_Entered_E_mail">A verification Email is sent on your Entered E-mail</string>
+    <string name="Mymessage">Mymessage::</string>
+    <string name="Email">Email::</string>
+    <string name="Email_is_Mandatory_to_Signup">Email is Mandatory to Signup</string>
+    <string name="Password_is_Mandatory_to_Signup">Password is Mandatory to Signup</string>
+    <string name="onAuthStateChanged_signed_in" translatable="false">onAuthStateChanged:signed_in:</string>
+    <string name="Successfully_signed_in_with">Successfully signed in with:</string>
+    <string name="onAuthStateChanged_signed_out" translatable="false">onAuthStateChanged:signed_out</string>
+    <string name="Successfully_signed_out">Successfully signed out.</string>
+    <string name="Failed_to_read_value">Failed to read value.</string>
+    <string name="onClick_Attempting_to_add_object_to_database">onClick: Attempting to add object to database.</string>
+    <string name="Replace_with_your_own_action">Replace with your own action</string>
+    <string name="Camera_is_clicked">Camera is clicked</string>
+    <string name="Gallery_is_clicked">Gallery is clicked</string>
+    <string name="Slideshow_is_clicked">Slideshow is clicked</string>
+    <string name="Tools_is_clicked">Tools is clicked</string>
+    <string name="Share_is_clicked">Share is clicked</string>
+    <string name="Send_is_clicked">Send is clicked</string>
+    <string name="No_Service_Provider_is_available">No Service Provider is available</string>
+    <string name="GPS_is_not_Enabled">GPS is not Enabled!</string>
+    <string name="Do_you_want_to_turn_on_GPS">Do you want to turn on GPS?</string>
+    <string name="Cannot_Connect_to_Play_Services">Cannot Connect to Play Services</string>
+    <string name="Connected_to_Play_Services">Connected to Play Services</string>
+    <string name="s1">These permissions are mandatory for the application. Please allow access.</string>
+    <string name="s2">Replace with your own action</string>
+
+
+    <string name="action_settings">Settings</string>
+
+
+</resources>
